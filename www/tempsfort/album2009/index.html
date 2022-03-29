@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<!-- saved from url=(0014)about:internet -->
+<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<title>tempsfort_2009</title>
+		
+		<script type="text/javascript" src="./res/swfobject.js"></script>
+		<style type="text/css">
+		html { height: 100%; overflow: hidden; }
+		body { height: 100%; margin: 0; padding: 0; background-color: #444444; }
+		u { z-index: 1; }
+		</style>
+		<script type="text/javascript">
+		var widgetHeight = 0;
+		var lastWidgetHeight = -1;
+		function makeRoomForWidget() {
+			if (widgetHeight > 0) {
+				var e = document.getElementById("u");
+				if (e != null) {
+					e.height = (document.documentElement.clientHeight - (widgetHeight + 2)) + "px";
+				}
+			}
+		}
+		function checkWidget() {
+			var w = document.getElementById('jalbumwidgetcontainer');
+			if (w != null) {
+				widgetHeight = w.offsetHeight;
+				makeRoomForWidget();
+			}
+		}
+		window.onresize = makeRoomForWidget;
+		window.onload = function() {
+			makeRoomForWidget();
+			setInterval(checkWidget, 150);
+		}
+		</script>
+	<link rel="alternate" href="album.rss" type="application/rss+xml"/>
+	<link rel="stylesheet" type="text/css" href="../../standard.css">
+<style type="text/css">
+<!--
+-->
+</style>
+</head>
+	<body>
+		<div id="u"></div>
+		<script type="text/javascript">
+		swfobject.embedSWF("./res/lumen.swf", "u", "100%", "100%", "10.0.0", null, {
+			baseUrl:'',
+			bkgColor:'#FFFFF1',
+			registeredTo:'',
+			registrationKey:'',
+			maxThumbWidth:128,
+			maxThumbHeight:128,
+			hasDropShadow:'false',
+			hasScrollZone:'false',
+			thumbAnimation:'true',
+			thumbnailPadding:2,
+			thumbnailGutter:5,
+			thumbBarOrientation:2,
+			thumbBarFollows:'false',
+			slideAnimation:'true',
+			slidePadding:24,
+			slideBorder:12,
+			slideBorderColorARGB:'#ffefefef',
+			thumbBackColorARGB:'#444444',
+			thumbSelectionColorARGB:'#ffffff33',
+			progressBarDelay:200,
+			slideshowDelay:2000,
+			hasControlPanel:'false',
+			showThumbbarFromStart:'true',
+			slideOutAnimation:'false',
+			autoStartSlideshow:'true',
+			musicUrl:'',
+			musicPrebufferTime:'5',
+			textSlideshow:'Start/stop slideshow',
+			textFullscreen:'Toggle full screen',
+			textAbout:'About jAlbum/Lumen...'
+		}, {
+			wmode:'direct',
+			bgcolor:'#FFFFF1',
+			quality:'high',
+			allowfullscreen:'true'
+		});
+		</script>
+	<div id="jalbumwidgetcontainer"></div>
+<script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+_jaSkin = "Lumen";
+_jaStyle = "Dark.css";
+_jaVersion = "10.5";
+_jaGeneratorType = "desktop";
+_jaLanguage = "fr";
+_jaPageType = "index";
+_jaRootPath = ".";
+_jaGuid = "1332316038588";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "http://jalbum.net/widgetapi/load.js";
+document.getElementById("jalbumwidgetcontainer").appendChild(script);
+//--><!]]></script>
+
+</body>
+</html>

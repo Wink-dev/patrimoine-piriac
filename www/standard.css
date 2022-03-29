@@ -1,0 +1,87 @@
+A:Link{
+color:#981252;
+text-decoration:underline;
+}
+A:Visited{
+color:#981252;
+text-decoration:underline;
+}
+A:Hover{
+color:#981252;
+text-decoration:underline;
+}
+A:Active{
+color:#981252;
+text-decoration:underline;
+}
+body {
+color:#981252;
+background-color:#FFFFF1;
+font-family:"Times New Roman";
+font-size:18px;
+Margin-left:100px;
+Margin-right:100px;
+scrollbar-base-color:#981252;
+scrollbar-3dlight-color:#981252;
+scrollbar-arrow-color:#981252;
+scrollbar-darkshadow-color:#C78FAB;
+scrollbar-face-color:#D5ABAB;
+scrollbar-highlight-color:#FFFFFF;
+scrollbar-shadow-color:#C78FAB;
+scrollbar-track-color:#FFF6F1;
+}
+table{
+	color:#981252;
+background-color:#FFFFF1;
+font-family:"Times New Roman";
+font-size:22px;
+	}
+div {
+font-size:10px;
+text-align:right;
+Margin-left:0px;
+Margin-top:0px;
+}
+h1 {
+text-align:center;
+font-size:28px;
+}
+h2 {
+font-size:24px;
+}
+h3 {
+font-size:18px;
+}
+h4 {
+font-size:14px;
+}
+h5 {
+font-size:12px;
+}
+li {
+font-family:"Times New Roman";
+font-size:18px;
+font-weight:normal;
+Margin-left:20px;
+list-style-type:disc;
+}
+li li {
+font-family:"Times New Roman";
+font-size:17px;
+font-weight:normal;
+Margin-left:20px;
+list-style-type:disc;
+}
+li li li {
+font-family:"Times New Roman";
+font-size:17px;
+font-weight:normal;
+Margin-left:40px;
+list-style-type:circle;
+}
+ul {
+Margin-left:0px;
+}
+ol {
+Margin-left:0px;
+}

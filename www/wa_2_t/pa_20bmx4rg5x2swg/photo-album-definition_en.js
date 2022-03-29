@@ -1,0 +1,79 @@
+{
+"global_config":{
+"gallery_type":2,
+"diaporama_time":5,
+"transition_effect":100,
+"max_image_resolution":800,
+"random_diaporama":1,
+"show_diaporama_button":0,
+"show_comment":1,
+"has_fullscreen_thumbnail_mode":0,
+"inner_slideshow_image_margin":0,
+"open_popup_when_clicking":0,
+"type_display_page_navigator":1,
+"display_nav_arrows":1,
+"always_display_nav_elements":0,
+"comment_display_ImageNumber":0,
+"fit_image_to_slideshow":1}
+,"normal_config":{
+"has_shadow":false,
+"rows":2,
+"cols":15,
+"image_size":90,
+"image_spacing":4,
+"nb_images_per_page":30,
+"margin_left":14,
+"margin_top":18}
+,
+"fullscreen_list_config":{
+"image_size":110}
+,"images":[{"fn":"5685.jpg",
+"mod_th":"2w12kwrgpcxc0o",
+"mod":"2w12i0rgpcxc0o",
+"size":{"w":800,"h":600},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"http---diffuscap_ingenie_fr-images-prestataires-la-maison-du-patrimoine-vue-exterieure-1076.jpg",
+"mod_th":"2w12v4rgpcxc0o",
+"mod":"2w12s8rgpcxc0o",
+"size":{"w":400,"h":208},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"maison_20du_20patrimoine.jpg",
+"mod_th":"2w135crgpcxc0o",
+"mod":"2w132grgpcxc0o",
+"size":{"w":800,"h":599},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"Piriac.jpg",
+"mod_th":"2w13fkrgpcxc0o",
+"mod":"2w13corgpcxc0o",
+"size":{"w":600,"h":450},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"Plage_20du_20Castelli.jpg",
+"mod_th":"2w13psrgpcxc0o",
+"mod":"2w13mwrgpcxc0o",
+"size":{"w":600,"h":800},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"plage-de-piriac-sur-mer.jpg",
+"mod_th":"2w1400rgpcxc0o",
+"mod":"2w13x4rgpcxc0o",
+"size":{"w":586,"h":440},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"pt90368.jpg",
+"mod_th":"2w14a8rgpcxc0o",
+"mod":"2w147crgpcxc0o",
+"size":{"w":450,"h":338},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+]}

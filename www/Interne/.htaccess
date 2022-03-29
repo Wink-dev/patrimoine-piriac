@@ -1,0 +1,13 @@
+# .htaccess-Datei /interne
+# AuthType Basic
+# AuthName "Informations Interne"
+# AuthUserFile ../.htusers
+# AuthGroupFile /.htgroups
+# require user Gilles Claudia
+# require group Bureau
+
+AuthUserFile /kunden/homepages/46/d248124796/htdocs/Interne/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Informations Internes"
+AuthType Basic
+require valid-user

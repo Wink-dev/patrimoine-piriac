@@ -1,0 +1,165 @@
+<html>
+<head>
+<title>Home</title>
+<link rel="stylesheet" type="text/css" href="standard.css">
+<style type="text/css">
+<!--
+-->
+</style>
+
+
+<script type="text/javascript" language="JavaScript">
+<!-- Begin
+text = "Ouverture saison 2010: samedi 03 avril"; // der text
+text1 = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"; // der text
+color1 = "#981252"; // originale textfarbe
+color2 = "#F7B1D4"; // neue  textfarbe aqua
+fontsize = "6"; // font size
+fontsize1 = "5"; // font size
+speed = 50; // geschwindigkeit
+// zeit in millisekunden, (1000 = 1 s)
+
+i = 0;
+n = 0;
+
+function changeCharColor()  {
+text=text;
+var str = "<center><font size=" + fontsize + "><font color=" + color1 + ">";
+for (var j = 0; j < text.length; j++) {
+if( j == i) {
+str += "<font color=" + color2 + ">" + text.charAt(i) + "</font>";
+}
+else {
+str += text.charAt(j);
+   }
+}
+str += "</font></font></center>";
+a.innerHTML = str;
+
+if (i == text.length) {
+i=0;
+}
+else
+{
+i++; // reset nach durchlauf aller zeichen
+}
+}
+setInterval("changeCharColor()", 50);
+
+function changeCharColor1()  {
+text=text;
+var str = "<center><font size=" + fontsize1 + "><font color=" + color1 + ">";
+for (var j = 0; j < text1.length; j++) {
+if( j == n) {
+str += "<font color=" + color2 + ">" + text1.charAt(n) + "</font>";
+}
+else {
+str += text1.charAt(j);
+   }
+}
+str += "</font></font></center>";
+b.innerHTML = str;
+
+if (n == text1.length) {
+n=0;
+}
+else
+{
+n++; // reset nach durchlauf aller zeichen
+}
+}
+setInterval("changeCharColor1()", 50);
+
+
+//  End  -->
+</script>
+</head>
+<body>
+<script type="text/javascript" language="JavaScript">
+<!-- Begin
+
+//document.write("<div id=a></div>");
+
+//changeCharColor();
+
+//  End  -->
+</script>
+<h1>La saison 2013 est ouverte</h1>
+<h3>La Maison du Patrimoine vous propose un retour dans le &laquo;Piriac dans les ann&eacute;es 50&raquo;.
+<br>Venez d&eacute;couvrir :
+<ul>
+<li>Les grands changements urbanistiques de la commune
+<li>Les modes de vie et ce qui faisait le quotidien de tout les jours
+<li>L&rsquo;&rsquo;arriv&eacute;e des Arts M&eacute;nagers
+<li>Les loisirs et les associations de l&rsquo;&eacute;poque
+<li>L&rsquo;arriv&eacute;e des touristes
+<li>.....
+</ul>
+Un grand bain au fond de ces ann&eacute;es qui ne connaissaient pas les crises....
+<br>
+<br>
+Nous vous attendons
+</h3>
+<h2><center>
+
+<script type="text/javascript" src="jwplayer/jwplayer.js"></script>
+
+
+   <div id="container">Loading the player ...</div>
+<script type="text/javascript">
+jwplayer("container").setup({
+flashplayer: "jwplayer/player.swf",
+file: "videos/2012.flv",
+image: "images/maison.jpg",
+title: "Maison de Patrimoine",
+autostart: true,
+height: 270,
+width: 480
+});
+</script>
+</h2>
+<script type="text/javascript" language="JavaScript">
+<!-- Begin
+
+document.write("<div id=b></div>");
+
+changeCharColor1();
+
+//  End  -->
+</script>
+
+<script type="text/javascript" language="JavaScript">
+<!-- Begin
+
+document.write("<div id=b></div>");
+
+changeCharColor1();
+
+//  End  -->
+</script>
+<h1>Bienvenue sur le site de la Maison du Patrimoine de Piriac sur Mer
+</h1>
+<br>
+<img src="images/home.jpg" width=50% align="right" hspace="10" alt="Maison de Patrimoine" >
+Habiter ou Visiter une petite cit&eacute; de caract&egrave;re comme Piriac sur Mer c&rsquo;est bien, appr&eacute;hender l&rsquo;&acirc;me de ce village, conna&icirc;tre son Histoire, ses coutumes c&rsquo;est mieux.
+La Maison du Patrimoine de Piriac a pour ambition de conserver ce qui repr&eacute;sente un int&eacute;r&ecirc;t historique ou ethnologique pour Piriac sur Mer.
+Ce site nouvellement ouvert vous fournit toutes les informations afin que vous puissiez venir nous rejoindre et visiter les expositions qui ne peuvent &ecirc;tre toutes pr&eacute;sent&eacute;es sur ces pages.
+Il a &eacute;galement pour but de vous tenir inform&eacute; sur les travaux et recherches en cours qui seront l&rsquo;objet de nouvelles expositions dans les ann&eacute;es &agrave; venir.
+<br><br>
+Comme vous le constaterez la Maison du Patrimoine est une association de b&eacute;n&eacute;voles, tous ceux qui le souhaitent peuvent &ecirc;tre membres de l&rsquo;association et participer &agrave; tous les travaux et activit&eacute;s tout au long de l&rsquo;ann&eacute;e.
+Nous recherchons plus particuli&egrave;rement :
+<ul>
+<li>des personnes pour assurer des permanences aux heures d&rsquo;ouverture au public 
+</li><li>
+des personnes pour effectuer des travaux de recherche et pr&eacute;paration de sujets d&rsquo;exposition
+</li><li>
+des objets, informations, documents, photos pr&eacute;sentant Piriac sous des angles non encore connus
+</li><li>
+des photos d&rsquo;&eacute;cole pour compl&eacute;ter l&rsquo;exposition &laquo; les petits &eacute;coliers piriacais &raquo; qui retrace la vie des &eacute;coles piriacaises depuis... 1915 !
+</li></ul>
+Merci de votre visite sur notre site et &agrave; bient&ocirc;t dans nos locaux
+<br>
+<h3 align="right"></b>Le Pr&eacute;sident</h3>
+
+</body></html>
+
