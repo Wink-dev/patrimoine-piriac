@@ -1,0 +1,72 @@
+{
+"global_config":{
+"gallery_type":0,
+"diaporama_time":3,
+"transition_effect":100,
+"max_image_resolution":320,
+"random_diaporama":0,
+"show_diaporama_button":1,
+"show_comment":1,
+"has_fullscreen_thumbnail_mode":0,
+"inner_slideshow_image_margin":0,
+"open_popup_when_clicking":0,
+"type_display_page_navigator":1,
+"display_nav_arrows":1,
+"always_display_nav_elements":0,
+"comment_display_ImageNumber":0,
+"fit_image_to_slideshow":1}
+,"normal_config":{
+"has_shadow":false,
+"rows":1,
+"cols":6,
+"image_size":160,
+"image_spacing":2,
+"nb_images_per_page":6,
+"margin_left":28,
+"margin_top":20}
+,
+"fullscreen_list_config":{
+"image_size":110}
+,"images":[{"fn":"WP_001979.jpg",
+"mod_th":"292k5c2v07qohe",
+"mod":"292k2g2v07qohe",
+"size":{"w":320,"h":239},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"VOILIERSPIRIAC.jpg",
+"mod_th":"292kfk2v07qohe",
+"mod":"292kco2v07qohe",
+"size":{"w":320,"h":242},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"WP_001981.jpg",
+"mod_th":"292kps2v07qohf",
+"mod":"292kmw2v07qohe",
+"size":{"w":320,"h":239},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"DSC_8761_DxO_resultat.jpg",
+"mod_th":"292l002v07qohf",
+"mod":"292kx42v07qohf",
+"size":{"w":320,"h":213},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"5685.jpg",
+"mod_th":"292la82v07qohf",
+"mod":"292l7c2v07qohf",
+"size":{"w":320,"h":240},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"wa_import39.jpg",
+"mod_th":"292lkg2v07qohf",
+"mod":"292lhk2v07qohf",
+"size":{"w":240,"h":320},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+]}
