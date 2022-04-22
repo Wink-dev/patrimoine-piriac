@@ -28,22 +28,22 @@
 "fullscreen_list_config":{
 "image_size":110}
 ,"images":[{"fn":"EXPOPERMANENTE.jpg",
-"mod_th":"23wqvsrgpcxcje",
-"mod":"23wqswrgpcxcje",
+"mod_th":"2z5lr47y4l9vqsu",
+"mod":"2z5lo87y4l9vqsu",
 "size":{"w":952,"h":1100},
 "comment":"",
 "tooltip":"",
 "lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
 ,{"fn":"EXPOPERMANENTE2.jpg",
-"mod_th":"23wr60rgpcxcje",
-"mod":"23wr34rgpcxcje",
+"mod_th":"2z5m1c7y4l9vqsu",
+"mod":"2z5lyg7y4l9vqsu",
 "size":{"w":907,"h":1156},
 "comment":"",
 "tooltip":"",
 "lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
 ,{"fn":"EXPOPERMANENTE1.jpg",
-"mod_th":"23wrg8rgpcxcje",
-"mod":"23wrdcrgpcxcje",
+"mod_th":"2z5mbk7y4l9vqsu",
+"mod":"2z5m8o7y4l9vqsu",
 "size":{"w":886,"h":1182},
 "comment":"",
 "tooltip":"",
